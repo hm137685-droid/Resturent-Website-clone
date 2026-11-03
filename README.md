@@ -23,7 +23,7 @@ A fully responsive restaurant website clone built with React.js, focusing on com
 git clone https://github.com/hm137685-droid/Resturent-Website-clone.git
 
 # Go to project folder
-cd restaurant-clone
+cd restaurant-website
 
 # Install dependencies
 npm install
