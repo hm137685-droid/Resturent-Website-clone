@@ -31,16 +31,4 @@ npm install
 # Start the project
 npm start)
 
-### ✨ Features
-- 📱 100% Responsive Design (Mobile, Tablet, Desktop)
-- ♻️ Reusable Components using React Props
-- 🍔 Dynamic Menu Rendering
-- 🎨 Modern & Clean UI
-- ⚡ Fast & Optimized
 
-### 🛠️ Tech Stack
-- React.js
-- JavaScript (ES6)
-- HTML5
-- CSS3
-- JSX
